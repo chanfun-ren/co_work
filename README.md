@@ -1,3 +1,3 @@
 # co_work
 
-demo repo for co_work
+demonstration of co_work
